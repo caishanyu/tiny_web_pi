@@ -1,0 +1,550 @@
+[2025-10-16 19:17:29] <socket_web_init-51> socket init done
+[2025-10-16 19:17:29] <socket_handle_connect-70> Start accept connections
+[2025-10-16 19:17:38] <socket_web_init-51> socket init done
+[2025-10-16 19:17:38] <socket_handle_connect-70> Start accept connections
+[2025-10-16 19:18:35] <socket_web_init-51> socket init done
+[2025-10-16 19:18:35] <socket_handle_connect-70> Start accept connections
+[2025-10-16 19:18:39] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:18:39] <debug_show_http_request-143> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 19:18:39] <http_request_response-99> Send response to client
+[2025-10-16 19:18:39] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:18:39] <debug_show_http_request-143> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 19:18:39] <http_request_response-99> Send response to client
+[2025-10-16 19:20:01] <socket_web_init-51> socket init done
+[2025-10-16 19:20:01] <socket_handle_connect-70> Start accept connections
+[2025-10-16 19:20:03] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:10] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 19:20:10] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:10] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 19:20:10] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:14] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 19:20:14] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:14] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 19:20:14] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:14] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 19:20:14] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:14] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 19:20:17] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:17] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 19:20:17] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:17] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 19:20:17] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:17] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 19:20:18] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:18] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 19:20:18] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:18] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 19:20:18] <socket_handle_connect-82> handle new connection
+[2025-10-16 19:20:18] <debug_show_http_request-145> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 20:00:02] <http_init-28> http module init OK
+[2025-10-16 20:00:02] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:00:02] <socket_web_init-51> socket init done
+[2025-10-16 20:00:02] <socket_handle_connect-70> Start accept connections
+[2025-10-16 20:00:15] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:15] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 20:00:15] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:15] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 20:00:15] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:15] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 20:00:19] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:27] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 20:00:27] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:27] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 20:00:27] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:27] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 20:00:27] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:27] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 20:00:33] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:33] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-16 20:00:33] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:33] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 20:00:33] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:00:33] <debug_show_http_request-207> show http request structure:
+Method: GET
+Url: /favicon.ico
+Version: HTTP/1.1
+
+[2025-10-16 20:01:03] <http_init-28> http module init OK
+[2025-10-16 20:01:03] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:01:03] <socket_web_init-39> bind() fail
+[2025-10-16 20:01:03] <socket_web_init-56> socket init fail
+[2025-10-16 20:01:03] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-16 20:01:36] <http_init-28> http module init OK
+[2025-10-16 20:01:36] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:01:36] <socket_web_init-39> bind() fail
+[2025-10-16 20:01:36] <socket_web_init-56> socket init fail
+[2025-10-16 20:01:36] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-16 20:02:33] <http_init-28> http module init OK
+[2025-10-16 20:02:33] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:02:33] <socket_web_init-51> socket init done
+[2025-10-16 20:02:33] <socket_handle_connect-70> Start accept connections
+[2025-10-16 20:02:36] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:02:36] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:02:36] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:03:01] <http_init-28> http module init OK
+[2025-10-16 20:03:01] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:03:01] <socket_web_init-39> bind() fail
+[2025-10-16 20:03:01] <socket_web_init-56> socket init fail
+[2025-10-16 20:03:01] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-16 20:03:48] <http_init-28> http module init OK
+[2025-10-16 20:03:48] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:03:48] <socket_web_init-51> socket init done
+[2025-10-16 20:03:48] <socket_handle_connect-70> Start accept connections
+[2025-10-16 20:03:50] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:03:50] <http_request_response-146> <p>MemTotal:       16028676 kB<br>MemFree:          292280 kB<br>MemAvailable:   13861348 kB<br>Buffers:         1852160 kB<br>Cached:          9067916 kB<br>SwapCached:         1352 kB<br>Active:          6201432 kB<br>Inactive:        6100540 kB<br>Active(anon):     649912 kB<br>Inactive(anon):   777624 kB<br>Active(file):    5551520 kB<br>Inactive(file):  5322916 kB<br>Unevictable:           0 kB<br>Mlocked:               0 kB<br>SwapTotal:       8163324 kB<br>SwapFree:        8123900 kB<br>Dirty:             11992 kB<br>Writeback:             0 kB<br>AnonPages:       1350676 kB<br>Mapped:           350532 kB<br>Shmem:             45664 kB<br>KReclaimable:    3034100 kB<br>Slab:            3266360 kB<br>SReclaimable:    3034100 kB<br>SUnreclaim:       232260 kB<br>KernelStack:       11056 kB<br>PageTables:        41212 kB<br>NFS_Unstable:          0 kB<br>Bounce:                0 kB<br>WritebackTmp:          0 kB<br>CommitLimit:    16177660 kB<br>Committed_AS:    3927388 kB<br>VmallocTotal:   34359738367 kB<br>VmallocUsed:           0 kB<br>VmallocChunk:          0 kB<br>Percpu:            14656 kB<br>HardwareCorrupted:     0 kB<br>AnonHugePages:    393216 kB<br>ShmemHugePages:        0 kB<br>ShmemPmdMapped:        0 kB<br>HugePages_Total:       0<br>HugePages_Free:        0<br>HugePages_Rsvd:        0<br>HugePages_Surp:        0<br>Hugepagesize:       2048 kB<br>Hugetlb:               0 kB<br>DirectMap4k:      227176 kB<br>DirectMap2M:     6889472 kB<br>DirectMap1G:    10485760 kB<br></p>
+[2025-10-16 20:03:50] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:03:50] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:04:44] <http_init-28> http module init OK
+[2025-10-16 20:04:44] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:04:44] <socket_web_init-39> bind() fail
+[2025-10-16 20:04:44] <socket_web_init-56> socket init fail
+[2025-10-16 20:04:44] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-16 20:08:06] <http_init-28> http module init OK
+[2025-10-16 20:08:06] <sys_manage_init-21> sys_manage module init OK
+[2025-10-16 20:08:06] <socket_web_init-51> socket init done
+[2025-10-16 20:08:06] <socket_handle_connect-70> Start accept connections
+[2025-10-16 20:08:07] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:07] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:07] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:09] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:12] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:12] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:12] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:13] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:13] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:13] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:14] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:14] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:14] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:08:14] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:11] <http_init-28> http module init OK
+[2025-10-16 20:15:11] <sys_time_init-27> sys_time module init OK
+[2025-10-16 20:15:11] <sys_manage_init-23> sys_manage module init OK
+[2025-10-16 20:15:11] <socket_web_init-51> socket init done
+[2025-10-16 20:15:11] <socket_handle_connect-70> Start accept connections
+[2025-10-16 20:15:16] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:21] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:21] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:21] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:23] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:23] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:23] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:27] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:27] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:27] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:29] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:29] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:15:29] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:40] <http_init-28> http module init OK
+[2025-10-16 20:16:40] <sys_time_init-27> sys_time module init OK
+[2025-10-16 20:16:40] <sys_manage_init-23> sys_manage module init OK
+[2025-10-16 20:16:40] <socket_web_init-51> socket init done
+[2025-10-16 20:16:40] <socket_handle_connect-70> Start accept connections
+[2025-10-16 20:16:42] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:42] <http_request_response-145> ++ register time
+[2025-10-16 20:16:42] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:42] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:45] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:45] <http_request_response-145> ++ register time
+[2025-10-16 20:16:45] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:45] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:51] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:51] <http_request_response-145> ++ register time
+[2025-10-16 20:16:51] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:16:51] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:01] <http_init-28> http module init OK
+[2025-10-16 20:20:01] <sys_time_init-27> sys_time module init OK
+[2025-10-16 20:20:01] <sys_manage_init-23> sys_manage module init OK
+[2025-10-16 20:20:01] <socket_web_init-51> socket init done
+[2025-10-16 20:20:01] <socket_handle_connect-70> Start accept connections
+[2025-10-16 20:20:03] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:03] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:03] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:06] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:06] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:06] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:06] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:09] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:09] <socket_handle_connect-82> handle new connection
+[2025-10-16 20:20:09] <socket_handle_connect-82> handle new connection
+[2025-10-17 12:00:57] <http_init-28> http module init OK
+[2025-10-17 12:00:57] <sys_time_init-27> sys_time module init OK
+[2025-10-17 12:00:57] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 12:00:57] <socket_web_init-51> socket init done
+[2025-10-17 12:00:57] <socket_handle_connect-70> Start accept connections
+[2025-10-17 12:01:05] <socket_handle_connect-82> handle new connection
+[2025-10-17 12:01:05] <socket_handle_connect-82> handle new connection
+[2025-10-17 12:01:17] <socket_handle_connect-82> handle new connection
+[2025-10-17 12:01:17] <socket_handle_connect-82> handle new connection
+[2025-10-17 12:01:57] <http_init-28> http module init OK
+[2025-10-17 12:01:57] <sys_time_init-27> sys_time module init OK
+[2025-10-17 12:01:57] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 12:01:57] <socket_web_init-39> bind() fail
+[2025-10-17 12:01:57] <socket_web_init-56> socket init fail
+[2025-10-17 12:01:57] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-17 14:05:08] <http_init-28> http module init OK
+[2025-10-17 14:05:08] <sys_time_init-27> sys_time module init OK
+[2025-10-17 14:05:08] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 14:05:08] <socket_web_init-51> socket init done
+[2025-10-17 14:05:08] <socket_handle_connect-70> Start accept connections
+[2025-10-17 14:05:12] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:05:12] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:05:17] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:05:19] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:05:34] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:05:35] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:07:57] <http_init-28> http module init OK
+[2025-10-17 14:07:57] <sys_time_init-27> sys_time module init OK
+[2025-10-17 14:07:57] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 14:07:57] <socket_web_init-51> socket init done
+[2025-10-17 14:07:57] <socket_handle_connect-70> Start accept connections
+[2025-10-17 14:08:00] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:08:00] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:09:35] <http_init-28> http module init OK
+[2025-10-17 14:09:35] <sys_time_init-27> sys_time module init OK
+[2025-10-17 14:09:35] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 14:09:35] <socket_web_init-51> socket init done
+[2025-10-17 14:09:35] <socket_handle_connect-70> Start accept connections
+[2025-10-17 14:09:38] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:09:46] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:09:46] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:09:48] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:12:57] <http_init-28> http module init OK
+[2025-10-17 14:12:57] <sys_time_init-27> sys_time module init OK
+[2025-10-17 14:12:57] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 14:12:57] <socket_web_init-51> socket init done
+[2025-10-17 14:12:57] <socket_handle_connect-70> Start accept connections
+[2025-10-17 14:13:00] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:00] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:00] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:06] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:06] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:09] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:09] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:12] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:12] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:22] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:22] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:24] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:24] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:25] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:25] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:25] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:25] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:26] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:26] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:26] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:26] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:27] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:27] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:27] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:27] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:28] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:28] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:28] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:28] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:28] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:28] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:29] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:29] <socket_handle_connect-82> handle new connection
+[2025-10-17 14:13:29] <debug_show_http_request-215> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 14:13:29] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:13:42] <http_init-28> http module init OK
+[2025-10-17 15:13:42] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:13:42] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:13:42] <socket_web_init-51> socket init done
+[2025-10-17 15:13:42] <socket_handle_connect-70> Start accept connections
+[2025-10-17 15:13:54] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:13:54] <debug_show_http_request-224> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 15:13:54] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:15:10] <http_init-28> http module init OK
+[2025-10-17 15:15:10] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:15:10] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:15:10] <socket_web_init-51> socket init done
+[2025-10-17 15:15:10] <socket_handle_connect-70> Start accept connections
+[2025-10-17 15:15:22] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:15:22] <debug_show_http_request-224> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 15:15:22] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:15:26] <debug_show_http_request-224> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 15:15:26] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:15:48] <http_init-28> http module init OK
+[2025-10-17 15:15:48] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:15:48] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:15:48] <socket_web_init-39> bind() fail
+[2025-10-17 15:15:48] <socket_web_init-56> socket init fail
+[2025-10-17 15:15:48] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-17 15:16:37] <http_init-28> http module init OK
+[2025-10-17 15:16:37] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:16:37] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:16:37] <socket_web_init-39> bind() fail
+[2025-10-17 15:16:37] <socket_web_init-56> socket init fail
+[2025-10-17 15:16:37] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-17 15:17:23] <http_init-28> http module init OK
+[2025-10-17 15:17:23] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:17:23] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:17:23] <socket_web_init-51> socket init done
+[2025-10-17 15:17:23] <socket_handle_connect-70> Start accept connections
+[2025-10-17 15:17:26] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:17:26] <debug_show_http_request-224> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 15:17:26] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:18:53] <http_init-28> http module init OK
+[2025-10-17 15:18:53] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:18:53] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:18:53] <socket_web_init-39> bind() fail
+[2025-10-17 15:18:53] <socket_web_init-56> socket init fail
+[2025-10-17 15:18:53] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-17 15:20:33] <http_init-28> http module init OK
+[2025-10-17 15:20:33] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:20:33] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:20:33] <socket_web_init-51> socket init done
+[2025-10-17 15:20:33] <socket_handle_connect-70> Start accept connections
+[2025-10-17 15:20:39] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:20:39] <debug_show_http_request-229> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 15:20:39] <http_request_response-167> open file  fail
+[2025-10-17 15:20:39] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:21:14] <http_init-28> http module init OK
+[2025-10-17 15:21:14] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:21:14] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:21:14] <socket_web_init-39> bind() fail
+[2025-10-17 15:21:14] <socket_web_init-56> socket init fail
+[2025-10-17 15:21:14] <socket_web_run-108> Call socket_web_init() fail ret 5
+[2025-10-17 15:22:36] <http_init-28> http module init OK
+[2025-10-17 15:22:36] <sys_time_init-27> sys_time module init OK
+[2025-10-17 15:22:36] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 15:22:36] <socket_web_init-51> socket init done
+[2025-10-17 15:22:36] <socket_handle_connect-70> Start accept connections
+[2025-10-17 15:22:40] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:22:44] <debug_show_http_request-229> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 15:22:44] <http_request_response-161> write html file /home/shareE/TinyWebPi/http/page/main.html
+[2025-10-17 15:22:44] <socket_handle_connect-82> handle new connection
+[2025-10-17 15:22:44] <debug_show_http_request-229> show http request structure:
+Method: GET
+Url: /
+Version: HTTP/1.1
+
+[2025-10-17 15:22:44] <http_request_response-161> write html file /home/shareE/TinyWebPi/http/page/main.html
+[2025-10-17 15:22:44] <socket_handle_connect-82> handle new connection
+[2025-10-17 16:59:28] <http_init-28> http module init OK
+[2025-10-17 16:59:28] <sys_time_init-27> sys_time module init OK
+[2025-10-17 16:59:28] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 16:59:28] <socket_web_init-51> socket init done
+[2025-10-17 16:59:28] <socket_handle_connect-70> Start accept connections
+[2025-10-17 17:37:06] <thread_pool_create-84> thread pool create done
+[2025-10-17 17:37:06] <http_init-33> http module init OK
+[2025-10-17 17:37:06] <sys_time_init-27> sys_time module init OK
+[2025-10-17 17:37:06] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 17:37:06] <socket_web_init-51> socket init done
+[2025-10-17 17:37:06] <socket_handle_connect-70> Start accept connections
+[2025-10-17 17:39:25] <thread_pool_create-84> thread pool create done
+[2025-10-17 17:39:25] <thread_pool_destroy-141> thread pool destroy done
+[2025-10-17 17:39:25] <http_init-42> http module init OK
+[2025-10-17 17:39:25] <sys_time_init-27> sys_time module init OK
+[2025-10-17 17:39:25] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 17:39:25] <socket_web_init-51> socket init done
+[2025-10-17 17:39:25] <socket_handle_connect-70> Start accept connections
+[2025-10-17 17:40:03] <thread_pool_create-84> thread pool create done
+[2025-10-17 17:40:05] <thread_pool_destroy-141> thread pool destroy done
+[2025-10-17 17:40:05] <http_init-44> http module init OK
+[2025-10-17 17:40:05] <sys_time_init-27> sys_time module init OK
+[2025-10-17 17:40:05] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 17:40:05] <socket_web_init-51> socket init done
+[2025-10-17 17:40:05] <socket_handle_connect-70> Start accept connections
+[2025-10-17 17:41:00] <thread_pool_create-84> thread pool create done
+[2025-10-17 17:41:02] <thread_pool_destroy-141> thread pool destroy done
+[2025-10-17 17:41:02] <http_init-44> http module init OK
+[2025-10-17 17:41:02] <sys_time_init-27> sys_time module init OK
+[2025-10-17 17:41:02] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 17:41:02] <socket_web_init-51> socket init done
+[2025-10-17 17:41:02] <socket_handle_connect-70> Start accept connections
+[2025-10-17 17:42:24] <thread_pool_create-84> thread pool create done
+[2025-10-17 17:42:24] <thread_worker-36> thread tid 139939216316160 execute task done
+[2025-10-17 17:42:26] <thread_pool_destroy-141> thread pool destroy done
+[2025-10-17 17:42:26] <http_init-44> http module init OK
+[2025-10-17 17:42:26] <sys_time_init-27> sys_time module init OK
+[2025-10-17 17:42:26] <sys_manage_init-23> sys_manage module init OK
+[2025-10-17 17:42:26] <socket_web_init-51> socket init done
+[2025-10-17 17:42:26] <socket_handle_connect-70> Start accept connections
