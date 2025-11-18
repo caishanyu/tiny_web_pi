@@ -7,6 +7,7 @@
 #include "socket.h"
 #include "sys_manage.h"
 #include "thread_pool.h"
+#include "packet_parser.h"
 
 static struct http_gen_list_s http_gen_list = {};
 static struct thread_pool_s http_thread_pool = {};

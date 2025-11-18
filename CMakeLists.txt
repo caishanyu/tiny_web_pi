@@ -20,9 +20,11 @@ add_library(lib_debug ${PROJECT_SOURCE_DIR}/platform/debug/debug.c)
 if(DBG)
     target_compile_definitions(lib_debug PRIVATE DBG_ON)
 endif()
+add_library(lib_list ${PROJECT_SOURCE_DIR}/platform/ds/list.c)
 add_library(lib_socket ${PROJECT_SOURCE_DIR}/platform/socket/socket.c)
 add_library(lib_http ${PROJECT_SOURCE_DIR}/platform/http/http.c)
 add_library(lib_thread_pool ${PROJECT_SOURCE_DIR}/platform/thread_pool/thread_pool.c)
+add_library(lib_packet_parser ${PROJECT_SOURCE_DIR}/platform/packet_parser/packet_parser.c)
 
 # 添加宏定义
 set(LOG_DIR "${PROJECT_SOURCE_DIR}/platform/logs/log.txt")
@@ -37,4 +39,4 @@ add_executable(main ${PROJECT_SOURCE_DIR}/main.c)
 add_compile_options(-pedantic -Wall -Wextra-g)
 
 # 链接库到可执行文件
-target_link_libraries(main lib_socket lib_http lib_sys_manage lib_thread_pool lib_debug lib_sys_time pthread)
+target_link_libraries(main lib_socket lib_http lib_sys_manage lib_thread_pool lib_packet_parser lib_list lib_debug lib_sys_time pthread)

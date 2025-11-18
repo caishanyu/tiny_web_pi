@@ -4,6 +4,11 @@
 /* 标识入参or出参 */
 #define IN
 #define OUT
+/* 可选参数 */
+#define OPTIONAL
+
+/* 私有属性 */
+#define PRIVATE static
 
 /* 错误码 */
 typedef enum
@@ -22,6 +27,18 @@ typedef enum
 
     err_pthread_opera_fail,     // 线程操作失败
     err_thread_pool_not_init,   // 线程池未初始化
+
+    err_packet_parser_opera_fail,   // 报文解析器操作失败
+    err_packet_parser_full,         // 解析器已满
+    err_packet_parser_exist,        // 解析器已存在
+    err_packet_parser_not_exist,    // 解析器不存在
+    err_packet_parser_filter_name_exist,        // 过滤条件存在
+    err_packet_parser_filter_name_not_exist,    // 过滤条件不存在
+
+    err_list_create_fail,           // 链表创建失败
+    err_list_cmp_func_not_exist,    // 比较函数不存在
+    err_list_data_not_exist,        // 链表中不存在数据
+    err_list_position_invalid,      // 链表位置非法
 
     err_unknown,            // 未知
 }error_code;
